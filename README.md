@@ -2,7 +2,7 @@
 
 A collection of personal **Bash scripts** for quickly launching web tools from the terminal on Ubuntu Linux.
 
-> Built by someone learning Linux while pursuing a career in **HPC (High Performance Computing)** and **Quantitative Finance**.
+> Built by someone (Umair) learning Linux while pursuing a career in **HPC (High Performance Computing)** and **Quantitative Finance**.
 
 ---
 
