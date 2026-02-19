@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Launching ChatGpt in your default browser..."
+xdg-open "https://chatgpt.com/"  &>/dev/null &
