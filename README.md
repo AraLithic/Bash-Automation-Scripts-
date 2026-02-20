@@ -88,6 +88,7 @@ chmod +x ~/automation_scripts/scriptname
 | `gemini` | https://gemini.google.com | Opens Google Gemini |
 | `chatgpt` | https://chatgpt.com | Opens ChatGPT |
 | `docs` | https://docs.google.com | Opens Google Docs |
+| `YouTube` | https://www.youtube.com | Opens YouTube |
 
 ---
 
