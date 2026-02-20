@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Launching Gemini in your default browser..."
+xdg-open "https://gemini.google.com" &>/dev/null &
