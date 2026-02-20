@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Launching Claude in your default browser..."
+xdg-open "https://claude.ai" &>/dev/null &
