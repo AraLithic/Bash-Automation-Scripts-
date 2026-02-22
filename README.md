@@ -89,6 +89,7 @@ chmod +x ~/automation_scripts/scriptname
 | `chatgpt` | https://chatgpt.com | Opens ChatGPT |
 | `docs` | https://docs.google.com | Opens Google Docs |
 | `youtube` | https://www.youtube.com | Opens YouTube |
+| `github` | https://github.com/AraLithic | Opens GitHub Profile |
 
 ---
 
