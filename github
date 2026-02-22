@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Launching GitHub in your default browser..."
+xdg-open "https://github.com/AraLithic" &>/dev/null &
