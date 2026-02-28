@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "Launching Portfolio in your default browser..."
+xdg-open "https://aralithic.github.io/" &>/dev/null &
